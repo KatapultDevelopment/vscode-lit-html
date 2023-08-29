@@ -52,7 +52,8 @@
                         },
                         "default": [
                             "html",
-                            "raw"
+                            "raw",
+                            "safeHtml"
                         ]
                     },
                     "lit-html.format.enabled": {

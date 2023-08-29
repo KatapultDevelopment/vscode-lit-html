@@ -32,7 +32,8 @@
                                     },
                                     "default": [
                                         "html",
-                                        "raw"
+                                        "raw",
+                                        "safeHtml"
                                     ]
                                 },
                                 "format": {
