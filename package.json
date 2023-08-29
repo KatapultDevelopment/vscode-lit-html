@@ -1,10 +1,10 @@
 {
     "name": "lit-html",
     "private": true,
-    "displayName": "lit-html",
+    "displayName": "katapult-lit-html",
     "description": "Syntax highlighting and IntelliSense for html inside of JavaScript and TypeScript tagged template strings",
     "version": "1.11.1",
-    "publisher": "bierner",
+    "publisher": "Katapult Engineering",
     "icon": "docs/logo.png",
     "license": "MIT",
     "galleryBanner": {
